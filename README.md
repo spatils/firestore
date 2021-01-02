@@ -8,6 +8,12 @@ Download  service-firestoreadmin-0.0.1-SNAPSHOT.jar
 ```
 java -jar service-firestoreadmin-0.0.1-SNAPSHOT.jar
 ```
+###### Step 3
+Open the tool
+```
+http://localhost:4300/
+```
+
 ## Pre-requisite 
 | Item        | Description          | Version  |
 | ------------- |:-------------:| -----:|
