@@ -13,4 +13,4 @@ java -jar service-firestoreadmin-0.0.1-SNAPSHOT.jar
 | ------------- |:-------------:| -----:|
 | JRE     | Jre is required to exeute springboot application |   |
 | Port      | Application uses 4300 port      |     |
-| OS | Winndows/UNIX based with internet connection to connect to google database      |     |
+| OS | Windows/UNIX based with internet connection to connect to google database      |     |
