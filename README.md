@@ -15,7 +15,13 @@ Open the tool
 http://localhost:4300/
 ```
 ###### Step 4
-Import connection information 
+Import connection information
+To authenticate a service account and authorize it to access Firebase services, you must generate a private key file in JSON format.
+ To generate a private key file for your service account:
+ In the Firebase console, open Settings > Service Accounts.
+ Click Generate New Private Key, then confirm by clicking Generate Key.
+ Securely store the JSON file containing the key.
+Use the JSON file to connect to your firestore database.
 ###### Step 5
 Start executing queries ! 
 
@@ -24,4 +30,4 @@ Start executing queries !
 | ------------- |:-------------:| -----:|
 | JRE     | Jre is required to exeute springboot application |   |
 | Port      | Application uses 4300 port      |     |
-| OS | Windows/UNIX based with internet to access google database      |     |
+| OS | Windows/UNIX based with internet to access google firestore database      |     |
